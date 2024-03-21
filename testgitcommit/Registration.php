@@ -9,7 +9,7 @@
                   <span class="app-brand-logo demo">
                     
                   </span>
-                  <span class="app-brand-text demo text-body fw-bolder">Shivam</span>
+                  <span class="app-brand-text demo text-body fw-bolder">Shivam Info</span>
                 </a>
               </div>
               <!-- /Logo -->
